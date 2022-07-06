@@ -1,0 +1,10 @@
+body {
+	background-color: rgb(29, 12, 187);
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: white;
+	text-align: center;
+}
+
+p {
+	font-size: 1.5rem;
+}
